@@ -21,4 +21,4 @@ These were my favorite projects, as they combined my interest in programming wit
 This project had a series of buttons connected to an arduino, along with a piezo(simple speaker). When certain buttons were pressed, different tones were played.
 
 #### Robotic arm
-This project was both more complicated, and less. The programming was not as intense, but the engineeing aspect was. This program was the controls for a physical robotic arm, 3D designed and printed by me. More info can be found at skippysunday.net
+This project was both more complicated, and less. The programming was not as intense, but the engineeing aspect was. This program was the controls for a physical robotic arm, 3D designed and printed by me. More info can be found at [here](https://skippysunday.net)
